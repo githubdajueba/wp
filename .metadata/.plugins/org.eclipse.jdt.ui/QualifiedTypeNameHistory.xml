@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.flume.sink.AbstractSink"/>
+<fullyQualifiedTypeName name="org.apache.flume.conf.Configurable"/>
+<fullyQualifiedTypeName name="org.apache.flume.Context"/>
+<fullyQualifiedTypeName name="org.apache.flume.Transaction"/>
+<fullyQualifiedTypeName name="org.apache.flume.Channel"/>
+<fullyQualifiedTypeName name="org.apache.flume.Event"/>
+</qualifiedTypeNameHistroy>
