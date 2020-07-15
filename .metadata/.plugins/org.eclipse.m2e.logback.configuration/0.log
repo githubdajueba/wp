@@ -107,3 +107,13 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-07-11 11:23:54,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\eclipse\git\jt-logserver\src\test\resources
 2020-07-11 11:24:07,666 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
 2020-07-11 11:24:07,666 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
+2020-07-15 11:53:05,062 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
+2020-07-15 11:53:05,074 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
+2020-07-15 12:42:41,018 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
+2020-07-15 12:42:41,019 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
+2020-07-15 13:10:51,065 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
+2020-07-15 13:10:51,065 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
+2020-07-15 13:41:00,912 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
+2020-07-15 13:41:00,913 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
+2020-07-15 14:48:50,372 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\git\jt-logserver
+2020-07-15 14:48:50,373 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\CODE1909WS_web\apache-maven-3.5.3\conf\settings.xml tomcat7:run
